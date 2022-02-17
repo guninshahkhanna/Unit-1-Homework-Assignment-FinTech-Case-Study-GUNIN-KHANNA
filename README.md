@@ -1,7 +1,7 @@
 # Unit-1-Homework-Assignment-FinTech-Case-Study-GUNIN-KHANNA
 Homework assignment 1
 
-# TITLE
+# CoinSpot
 
 ## Overview and Origin
 
@@ -21,12 +21,14 @@ Homework assignment 1
 ## Business Activities:
 
 * What specific financial problem is the company or project trying to solve?
-    * 
+    * Coinspot and all other cryptocurrency exchanges make a wide varienty of cryptocurrencies available to the everyday retail investor. Without exchanges people would have to wither acquire their digital currencies in a proof-of-work (mining) or proof-of-stake (contributing to the network) protocol or purchase them from unregulated individuals. In this regard Coinspot also provides a safe and regulated enviornment to invest in cryptocurrencies.
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
-
+    * Being an Australian based exchange, Coinspots intended customer is the average Australian adult, with a focus on bringing in as many retail investors to invest in cryptocurrency. Although there are no publically available statistics on Coinspots user demographics, Coinspots total users hit 2 million in 2021, nearing 10% of Australias Population.
+    * Bitcoin community engagement statistics by gender show that males account for 85.77% of the BTC investors (source: coin.dance). Being the most popular cryptocurrency on the exchange the marketting done by Coinspot is generally targetted at young males. An example of this is a giveaway of a Lambhorghini Huracan to celebrate them reaching 2 million users.   
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
-
+    * Coinspots ever-increasing list of cryptocurrencies available to their users is one of the main competitive advantages against the other Australian crypto exchanges. With over 330 different cryptocurrencies on offer, Coinspot trumps other australian based exchanges by offering a wider variety to their customers.
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+    * Coinspot uses blockhain technology to allow users to store their indiviual cryptocurrencies in embedded wallets. These wallets also provide the functionality to transfer and recieve cryptocurrency from other wallets/exchanges. All these transactions are made on the currencies peer to peer networks and listed on their decentralised public ledger.
 
 ## Landscape:
 
@@ -37,6 +39,7 @@ Homework assignment 1
     * Rapid developments
     * Smart Contracts allowing for NFTs
     * The concept of decentralised finance coined in 2018
+    
 * What are the other major companies in this domain?
     * In Australia:
         * Swyftx
@@ -49,11 +52,11 @@ Homework assignment 1
 ## Results
 
 * What has been the business impact of this company so far?
-
+    * Coinspot has made cryptocurrency readily available to the average Australian. Exchanges like coinspot are part of the reason why 28% of Australians now own cryptocurrency despite the technology being invented just 13 years ago. 
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
-
+    * A core metric used by crypto exchanges is the daily volume traded trough their exchange. Although coinspot does not publically display their trading volume, the Binance exchange reported a 24 hour trading volume of $12 billion (cumilative accrross all available currencies raded on their exchange) at the time I am writing this.
 * How is your company performing relative to competitors in the same domain?
-
+    * With the number of users being the only factor to compare them by, Coinspot is the most popular cryptocurrecy exchange in Australia with over 2 million users. Despite this, it pales in comparison to foreign and international exchanges with Binance reporting over 28.6 million users in 2021 and Coinbase reporting 73 million users in Q3 of 2021.
 ## Recommendations
 
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
